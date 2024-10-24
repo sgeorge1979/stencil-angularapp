@@ -22,7 +22,10 @@
     "lib": [
       "ES2022",
       "dom"
-    ]
+    ],
+    "paths": {
+      "@web-components/*": ["../my-stencil-project/*"]
+     }
   },
   "angularCompilerOptions": {
     "enableI18nLegacyMessageIdFormat": false,

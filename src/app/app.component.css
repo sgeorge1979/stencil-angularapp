@@ -1,0 +1,16 @@
+.content {
+    font-family: arial;
+    font-size: 16px;
+    margin: 25px;
+    height: 200px;
+    outline: dashed 1px black;
+    padding: 5px 25px 40px 10px;
+    padding-left: 100px;
+  }
+  
+ h1 {
+    /* Center horizontally*/
+    text-align: center;
+   }
+  
+  hr { margin-bottom: 50px;} 
